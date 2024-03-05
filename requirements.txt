@@ -1,0 +1,4 @@
+psutil==5.9.6
+py-cord @ git+https://github.com/Pycord-Development/pycord@40d2b00b0289e8d55f98ec1c5c6ee95a3669205d
+python-dotenv==1.0.0
+redis==5.0.1
